@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/octalotus-ui-build/precache-manifest.d083f059ddb32880224d8d8bb5e3e13a.js"
+  "/octalotus-ui-build/precache-manifest.51f0e8b077fb1053882d1860a3593856.js"
 );
 
 self.addEventListener('message', (event) => {
